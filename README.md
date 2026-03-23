@@ -1,3 +1,7 @@
+# Multimodal-GenAI-Application 🧠
+
+[🚀 Live Demo](https://mutimodal-genai-application-gmenedtmcnuxhy7935g6bv.streamlit.app/) – Try the app online!
+
 📌 Project Overview
 
 This project implements a Multimodal AI System capable of answering natural language questions about an image.
